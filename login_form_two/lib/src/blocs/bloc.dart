@@ -16,5 +16,3 @@ class Bloc extends Object with validators.Validator {
     this._passwordController.close();
   }
 }
-
-final bloc = Bloc();
